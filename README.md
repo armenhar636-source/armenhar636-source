@@ -6,8 +6,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:7B2FF7&height=120&section=header" />
 
-💻 About Me
-
   <img
     src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&height=60&lines=WEB+%2F+BACKEND+DEVELOPMENT"
     alt="WEB /  DEVELOPMENT"

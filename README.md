@@ -7,24 +7,26 @@
     alt="WEB / BACKEND DEVELOPMENT"
   />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%92%BB;Java+%7C+Python+%7C+JavaScript;Always+Learning+New+Things+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Web+Developer+%F0%9F%92%BB;HTML+%7C+CSS+%7C+JavaScript;Creating+Beautiful+Websites+%F0%9F%9A%80;Always+Learning+%F0%9F%8C%B1" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:7B2FF7&height=120&section=header" />
 
 💻 About Me
 
-🚀 I'm learning Backend Development
+🌐 I'm a Web Developer
 
-🌱 Improving my programming skills
+🎨 I enjoy creating beautiful websites
 
-🎯 Building new projects
+⚡ Learning and improving my JavaScript skills
 
-💡 Interested in Software Development
+🚀 Building new web projects
 
-🛠️ Languages & Tools
+💡 Always exploring new web technologies
+
+🛠️ My Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,js,php,nodejs,express,mysql,git,github,vscode,godot" />
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
 </p>
 
 📊 GitHub Statistics
@@ -37,7 +39,7 @@
 
 <img src="https://streak-stats.demolab.com?user=Armen5570&theme=tokyonight&hide_border=true" />
 
-🐍 Contribution Snake
+🐍 My Contributions
 
 <img src="https://raw.githubusercontent.com/Armen5570/Armen5570/output/github-contribution-grid-snake-dark.svg" />
 
@@ -47,7 +49,7 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:7B2FF7&height=100&section=footer" />
 
 ⭐ Thanks for visiting my profile!
 

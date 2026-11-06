@@ -1,11 +1,6 @@
 ## Hi there 👋
 
-<div align="center">
 
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&height=60&lines=WEB+%2F+BACKEND+DEVELOPMENT"
-    alt="WEB / BACKEND DEVELOPMENT"
-  />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Web+Developer+%F0%9F%92%BB;HTML+%7C+CSS+%7C+JavaScript;Creating+Beautiful+Websites+%F0%9F%9A%80;Always+Learning+%F0%9F%8C%B1" />
 
@@ -13,7 +8,11 @@
 
 💻 About Me
 
-🌐 I'm a Web Developer
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&height=60&lines=WEB+%2F+BACKEND+DEVELOPMENT"
+    alt="WEB /  DEVELOPMENT"
+  />
+
 
 🎨 I enjoy creating beautiful websites
 

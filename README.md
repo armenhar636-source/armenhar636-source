@@ -8,7 +8,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:7B2FF7&height=120&section=header" />
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%">
+  <img src="./profile-3d-contrib/profile-gitblock.svg" width="100%">
 </p>
 
 ### 🛠️ My Technologies

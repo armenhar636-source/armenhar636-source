@@ -7,16 +7,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:7B2FF7&height=120&section=header" />
 
-### 💻 About Me
-
-- 🌐 I'm a Web Developer
-- 🎨 I enjoy creating beautiful websites
-- ⚡ Learning and improving my JavaScript skills
-- 🚀 Building new web projects
-- 💡 Always exploring new web technologies
-
----
-
 ### 🛠️ My Technologies
 
 <p>
@@ -37,22 +27,3 @@
 
 <img src="https://streak-stats.demolab.com?user=Armen5570&theme=tokyonight&hide_border=true" />
 
----
-
-### 🐍 My Contributions
-
-<img src="https://raw.githubusercontent.com/Armen5570/Armen5570/output/github-contribution-grid-snake-dark.svg" />
-
----
-
-### 🌐 Connect With Me
-
-<a href="https://github.com/Armen5570">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:7B2FF7&height=100&section=footer" />
-
-**⭐ Thanks for visiting my profile!**
-
-</div>
